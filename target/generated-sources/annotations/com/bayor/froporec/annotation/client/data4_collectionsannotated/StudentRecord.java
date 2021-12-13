@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.data4_collectionsannotated;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.GenerateRecordProcessor",
-    date = "2021-11-27T23:20:55.6621358-05:00",
+    date = "2021-12-13T15:13:46.9408778-05:00",
     comments = "version: 1.1"
 )
 public record StudentRecord(java.lang.String lastname, int age, int mark, java.lang.String grade, java.util.Set<com.bayor.froporec.annotation.client.data4_collectionsannotated.SchoolRecord> schools, java.util.List<com.bayor.froporec.annotation.client.data4_collectionsannotated.PersonRecord> friends, java.util.Map<com.bayor.froporec.annotation.client.data4_collectionsannotated.SchoolRecord, com.bayor.froporec.annotation.client.data4_collectionsannotated.PersonRecord> bestFriendBySchool) {
