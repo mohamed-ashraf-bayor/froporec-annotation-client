@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.mixed;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-01-08T16:18:17.4817411-05:00",
+    date = "2022-01-08T19:19:31.259985-05:00",
     comments = "version: 1.2"
 )
 public record ImmutableStudent(int mark, java.lang.String grade, java.lang.String lastname, int age, java.util.Set<com.bayor.froporec.annotation.client.mixed.ImmutableSchool> schools, java.util.List<com.bayor.froporec.annotation.client.mixed.PersonRecord> friends, java.util.Map<com.bayor.froporec.annotation.client.mixed.ImmutableSchool, com.bayor.froporec.annotation.client.mixed.PersonRecord> bestFriendBySchool) {
