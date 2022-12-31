@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.record.data4_collectionsannotated;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-28T21:36:09.1908812-05:00",
+    date = "2022-12-30T21:03:43.9195658-05:00",
     comments = "version: 1.4"
 )
 public record SchoolRecord(java.lang.String name)  {

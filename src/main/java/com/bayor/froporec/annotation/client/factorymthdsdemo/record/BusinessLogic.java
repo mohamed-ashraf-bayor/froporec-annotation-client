@@ -1,7 +1,5 @@
 package com.bayor.froporec.annotation.client.factorymthdsdemo.record;
 
-//import org.froporec.generator.helpers.SupportedCollectionsFieldsGenerator;
-
 import java.time.LocalDate;
 import java.util.Random;
 
@@ -28,9 +26,3 @@ public class BusinessLogic {
         System.out.println("\n\n" + step + " - Saved data:\n" + examReport);
     }
 }
-
-//    default Map<String, String> constructFieldNameTypePair(Element nonVoidMethodElement,
-//                                                           Map<Element, String> nonVoidMethodsElementsReturnTypesMap,
-//                                                           Map<String, Set<Element>> allElementsTypesToConvertByAnnotation,
-//                                                           ProcessingEnvironment processingEnv,
-//                                                           SupportedCollectionsFieldsGenerator collectionsGenerator) {

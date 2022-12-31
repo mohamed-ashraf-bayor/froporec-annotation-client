@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.immutable.data1_allrecordsannotated
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-28T21:36:09.4518801-05:00",
+    date = "2022-12-30T21:03:44.1455564-05:00",
     comments = "version: 1.4"
 )
 public record ImmutableSchool(java.lang.String name)  {

@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.record.data2_fieldsannotated;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-28T21:36:09.2458785-05:00",
+    date = "2022-12-30T21:03:44.0445569-05:00",
     comments = "version: 1.4"
 )
 public record StudentWithAlsoConvertRecord(java.lang.String lastname, int age, int mark, java.lang.String grade, com.bayor.froporec.annotation.client.record.data2_fieldsannotated.SchoolRecord school, com.bayor.froporec.annotation.client.record.data2_fieldsannotated.PersonRecord friend)  {
