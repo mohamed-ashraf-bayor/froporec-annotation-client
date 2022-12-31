@@ -1,17 +1,17 @@
-package com.bayor.froporec.annotation.client.factorymthds.factorymthds;
+package com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds;
 
 import java.time.LocalDate;
 import java.util.Map;
 import java.util.Random;
 
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.CANDIDATE_ID;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.CONTACT_INFO;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.EXAM_DATE;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.EXAM_ID;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.FULL_NAME;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.PASSED;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.SCORE;
-import static com.bayor.froporec.annotation.client.factorymthds.factorymthds.ImmutableExamReport.SUBMITTED_EXAM_CONTENT;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.CANDIDATE_ID;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.CONTACT_INFO;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.EXAM_DATE;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.EXAM_ID;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.FULL_NAME;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.PASSED;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.SCORE;
+import static com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ImmutableExamReport.SUBMITTED_EXAM_CONTENT;
 
 public class BusinessLogic {
 

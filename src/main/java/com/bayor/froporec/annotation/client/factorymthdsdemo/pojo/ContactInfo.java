@@ -1,4 +1,4 @@
-package com.bayor.froporec.annotation.client.factorymthds.pojo;
+package com.bayor.froporec.annotation.client.factorymthdsdemo.pojo;
 
 public class ContactInfo {
     private String email;

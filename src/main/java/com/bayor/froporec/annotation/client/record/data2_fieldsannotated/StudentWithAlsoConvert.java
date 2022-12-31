@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.record.data2_fieldsannotated;
 
 import org.froporec.annotations.Record;
 
-// rewrite of: src/main/java/com/bayor/froporec/annotation/client/generaterecord/data2_fieldsannotated/Student.java
+// rewrite of: src/main/java/com/bayor/froporec/annotation/client/record/data2_fieldsannotated/Student.java
 // using "alsoConvert" to avoid repetitive use of @Record
 // name "StudentWithAlsoConvert" used here only as an example. there are no requirements regarding your classes names
 

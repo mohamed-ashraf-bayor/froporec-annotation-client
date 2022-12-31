@@ -1,13 +1,9 @@
-package com.bayor.froporec.annotation.client.factorymthds.record;
+package com.bayor.froporec.annotation.client.factorymthdsdemo.record;
 
 //import org.froporec.generator.helpers.SupportedCollectionsFieldsGenerator;
 
-import javax.annotation.processing.ProcessingEnvironment;
-import javax.lang.model.element.Element;
 import java.time.LocalDate;
-import java.util.Map;
 import java.util.Random;
-import java.util.Set;
 
 public class BusinessLogic {
 
