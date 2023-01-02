@@ -17,5 +17,6 @@ Mixed use of POJO and Record classes: https://github.com/mohamed-ashraf-bayor/fr
 Generated Records folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/target/generated-sources/annotations/com/bayor/froporec/annotation/client/mixed
 
 **Factory Methods**<br>
-Record classes folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/src/main/java/com/bayor/froporec/annotation/client/factorymthdsdemo/factorymthds <br>
+(Links to Code Samples used in demo video. All above code samples also have generated factory methods, except for SuperRecord generated classes)<br>
+https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/src/main/java/com/bayor/froporec/annotation/client/factorymthdsdemo/factorymthds <br>
 Generated Records folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/target/generated-sources/annotations/com/bayor/froporec/annotation/client/factorymthdsdemo/factorymthds <br>
