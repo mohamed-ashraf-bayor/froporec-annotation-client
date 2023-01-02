@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.record.data6_complexpojos;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-30T21:03:43.8445565-05:00",
+    date = "2023-01-02T14:58:47.3450274-05:00",
     comments = "version: 1.4"
 )
 public record PremiumCustomerRecord(java.lang.String firstName, java.lang.String lastName, java.lang.Boolean active, int age, java.util.List<com.bayor.froporec.annotation.client.record.data6_complexpojos.AddressRecord> customerAddressList, java.util.Map<java.lang.String, com.bayor.froporec.annotation.client.record.data6_complexpojos.CustomerContactInfoRecord> customerContactInfoByType, boolean premiumCustomer)  {

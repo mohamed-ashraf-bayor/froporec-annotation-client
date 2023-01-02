@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-30T21:03:44.1265548-05:00",
+    date = "2023-01-02T14:58:47.6800285-05:00",
     comments = "version: 1.4"
 )
 public record ImmutableExamReport(int candidateId, java.lang.String fullName, com.bayor.froporec.annotation.client.factorymthdsdemo.factorymthds.ContactInfo contactInfo, java.lang.Integer examId, java.lang.String submittedExamContent, java.time.LocalDate examDate, java.lang.Double score, java.lang.Boolean passed)  {

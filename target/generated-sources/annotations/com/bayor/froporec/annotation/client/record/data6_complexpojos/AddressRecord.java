@@ -2,7 +2,7 @@ package com.bayor.froporec.annotation.client.record.data6_complexpojos;
 
 @javax.annotation.processing.Generated(
     value = "org.froporec.FroporecAnnotationProcessor",
-    date = "2022-12-30T21:03:44.0225539-05:00",
+    date = "2023-01-02T14:58:47.4520275-05:00",
     comments = "version: 1.4"
 )
 public record AddressRecord(java.lang.String streetName, java.lang.String buildingNumber)  {

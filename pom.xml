@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.froporec</groupId>
             <artifactId>froporec</artifactId>
-            <version>1.4-SNAPSHOT</version>
+            <version>1.4</version>
         </dependency>
     </dependencies>
 
@@ -36,7 +36,7 @@
                         <path>
                             <groupId>org.froporec</groupId>
                             <artifactId>froporec</artifactId>
-                            <version>1.4-SNAPSHOT</version>
+                            <version>1.4</version>
                         </path>
                     </annotationProcessorPaths>
                 </configuration>
