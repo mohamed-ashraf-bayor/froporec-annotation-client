@@ -16,6 +16,6 @@ Generated Records folder: https://github.com/mohamed-ashraf-bayor/froporec-annot
 Mixed use of POJO and Record classes: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/src/main/java/com/bayor/froporec/annotation/client/mixed <br>
 Generated Records folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/target/generated-sources/annotations/com/bayor/froporec/annotation/client/mixed
 
-**Factory Method**<br>
+**Factory Methods**<br>
 Record classes folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/src/main/java/com/bayor/froporec/annotation/client/factorymthdsdemo/factorymthds <br>
 Generated Records folder: https://github.com/mohamed-ashraf-bayor/froporec-annotation-client/tree/main/target/generated-sources/annotations/com/bayor/froporec/annotation/client/factorymthdsdemo/factorymthds <br>
